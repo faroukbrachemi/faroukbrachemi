@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+farouk%40brachemi%3A~%24+whoami;Data+Science+%2F+AI+Engineer;Building+production-ready+AI+%26+RAG+systems;LLMs+%7C+Agentic+AI+%7C+MLOps" alt="typing banner" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-open__to__work-00FF9C?style=flat-square&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/base-Bolzano,_Italy-00FF9C?style=flat-square&labelColor=0d1117" />
@@ -40,7 +39,7 @@ interests sit at the intersection of **LLMs, Generative AI, RAG, agentic AI and 
 
 ## `~/featured_projects`
 
-### 🌾 AgroVision — Precision Agriculture *(MSc Thesis)*
+### 🌾 [AgroVision — Precision Agriculture](https://github.com/faroukbrachemi/AgroVision) *(MSc Thesis)*
 Real-time crop-health monitoring platform combining **geospatial data + deep learning**. Processes RGB + NIR UAV multispectral imagery, computes **NDVI**, and runs a **dual-output U-Net** for crop-health segmentation — served through a streaming pipeline.
 `~95% accuracy · ~0.70 Dice`
 <br/>
@@ -51,14 +50,14 @@ Real-time crop-health monitoring platform combining **geospatial data + deep lea
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 
-### 🍔 FoodVision — Image Classification
+### 🍔 [FoodVision — Image Classification](https://github.com/faroukbrachemi/FoodVision)
 **CNN** food-image classifier trained on the **Food101** dataset using transfer learning. `~85% accuracy`
 <br/>
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-### 🧬 NeuroCreative — *Hackathon Project*
+### 🧬 [NeuroCreative](https://github.com/faroukbrachemi/NeuroCreative) — *Hackathon Project*
 **AI-powered** creative intelligence for mobile advertisers.
 <br/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -66,7 +65,7 @@ Real-time crop-health monitoring platform combining **geospatial data + deep lea
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
-### 🌬️ Wind Energy Prediction — *Hackathon Project*
+### 🌬️ [Wind Energy Prediction](https://github.com/faroukbrachemi/Wind-Energy-Prediction) — *Hackathon Project*
 Machine-learning models to **forecast wind power / energy output** from meteorological data — time-series modeling for renewable-energy production.
 <br/>
 <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -101,8 +100,6 @@ $ ls -la ./skills
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
 
-
-
 **Data / Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
@@ -119,7 +116,6 @@ $ ls -la ./skills
 <img src="https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
 <img src="https://img.shields.io/badge/-PostGIS-008BB9?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
-
 
 **Dev Tools**
 <br/>
