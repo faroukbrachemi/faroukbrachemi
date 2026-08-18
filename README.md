@@ -65,7 +65,7 @@ Real-time crop-health monitoring platform combining **geospatial data + deep lea
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
-### 🌬️ [Wind Energy Prediction](https://github.com/faroukbrachemi/Wind-Energy-Prediction) — *Hackathon Project*
+### 🌬️ [Wind Energy Prediction](https://github.com/faroukbrachemi/wind-energy-forecasting) — *Hackathon Project*
 Machine-learning models to **forecast wind power / energy output** from meteorological data — time-series modeling for renewable-energy production.
 <br/>
 <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
