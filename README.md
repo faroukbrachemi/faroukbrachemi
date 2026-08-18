@@ -1,6 +1,6 @@
 <!-- ====== HEADER / TERMINAL BANNER ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+farouk%40bolzano%3A~%24+whoami;Data+Science+%2F+AI+Engineer;Building+production-ready+AI+%26+RAG+systems;LLMs+%7C+Agentic+AI+%7C+MLOps" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+farouk%40brachemi%3A~%24+whoami;Data+Science+%2F+AI+Engineer;Building+production-ready+AI+%26+RAG+systems;LLMs+%7C+Agentic+AI+%7C+MLOps" alt="typing banner" />
 </p>
 
 <p align="center">
@@ -19,12 +19,11 @@ $ cat about_farouk.txt
 
 ```
 Name        : Farouk Fadel Brachemi
-Role        : Data Science / AI Engineer
+Role        : AI & Data Science Engineer
 Location    : Bolzano, South Tyrol, Italy
 Education   : MSc Computing for Data Science @ UniBZ (2025 – present)
               MSc Data Science & AI  |  BSc Computer Science
-Cert        : IBM Data Science Professional Certificate
-Languages   : Arabic (native) · English (C1) · French (B2) · Italian (learning)
+Languages   : Arabic (native) · English (C1) · French (B2) · Italian (A2)
 ```
 
 I'm a Data Science / AI engineer focused on turning experimental notebooks into
@@ -33,10 +32,9 @@ interests sit at the intersection of **LLMs, Generative AI, RAG, agentic AI and 
 
 **What I want to work on:**
 - 🧠 **Generative AI & LLMs** — production-grade RAG pipelines, agents, LangChain / LangGraph
-- 🔍 **Retrieval systems** — hybrid search, reranking, query transformation (HyDE, step-back, multi-query)
 - ⚙️ **AI Engineering & automation** — end-to-end AI workflows, MCP integrations, MLOps / DataOps
 - 🛰️ **Applied ML** — computer vision, geospatial deep learning, real-time data pipelines
-- 🌍 Open to **AI Engineer / Data Scientist** roles across **Italy, Germany & Europe**
+- 🌍 Open to **AI Engineer / Data Scientist** roles across **Europe**
 
 ---
 
@@ -60,19 +58,13 @@ Real-time crop-health monitoring platform combining **geospatial data + deep lea
 <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
-### 📱 AgriSnap — Agriculture Mobile App
-Cross-platform agricultural mobile application built with **Flutter** (Android Studio, Java / Kotlin).
-<br/>
-<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-
 ### 🧬 NeuroCreative — *Hackathon Project*
-A generative-AI hackathon build exploring **creative AI** — combining LLMs and generative models to produce creative outputs from user input.
+**AI-powered** creative intelligence for mobile advertisers.
 <br/>
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
 
 ### 🌬️ Wind Energy Prediction — *Hackathon Project*
 Machine-learning models to **forecast wind power / energy output** from meteorological data — time-series modeling for renewable-energy production.
@@ -91,7 +83,7 @@ $ ls -la ./skills
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,dart,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,dart,sql" />
 
 **ML / Deep Learning**
 <br/>
@@ -108,8 +100,8 @@ $ ls -la ./skills
 <img src="https://img.shields.io/badge/-Chainlit-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/-Groq_·_Llama-F55036?style=flat-square" />
-<img src="https://img.shields.io/badge/-Hybrid_Search_·_BM25_·_Reranking-00FF9C?style=flat-square&labelColor=0d1117" />
+
+
 
 **Data / Databases**
 <br/>
@@ -127,7 +119,7 @@ $ ls -la ./skills
 <img src="https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white" />
 <img src="https://img.shields.io/badge/-PostGIS-008BB9?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
-<img src="https://img.shields.io/badge/-NDVI-00FF9C?style=flat-square&labelColor=0d1117" />
+
 
 **Dev Tools**
 <br/>
@@ -160,4 +152,4 @@ $ ./contact.sh --reach-out
   </a>
 </p>
 
-<p align="center"><i>Open to AI Engineer / Data Scientist opportunities in Italy, Germany & Europe 🌍</i></p>
+<p align="center"><i>Open to AI Engineer / Data Scientist opportunities in Italy & Europe 🌍</i></p>
