@@ -89,13 +89,12 @@ $ ls -la ./skills
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/-CNN_·_U--Net_·_LSTM-00FF9C?style=flat-square&labelColor=0d1117" />
+
 
 **Generative AI / LLM**
 <br/>
 <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
-<img src="https://img.shields.io/badge/-RAG-00FF9C?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/-Chainlit-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
@@ -108,7 +107,7 @@ $ ls -la ./skills
 
 **Cloud / Data Engineering**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,kafka,fastapi" />
+<img src="https://skillicons.dev/icons?i=kafka,fastapi,aws" />
 <img src="https://img.shields.io/badge/-S3_·_Kinesis_·_Glue_·_Athena_·_EMR-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 
 **Geospatial / GIS**
@@ -122,11 +121,6 @@ $ ls -la ./skills
 <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux" />
 
 <br/>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faroukbrachemi&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&icon_color=00FF9C" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faroukbrachemi&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" />
-</p>
 
 ---
 
