@@ -1,6 +1,6 @@
 <!-- ====== HEADER / TERMINAL BANNER ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+farouk%40brachemi%3A~%24+whoami;Data+Science+%2F+AI+Engineer;Building+production-ready+AI+%26+RAG+systems;LLMs+%7C+Agentic+AI+%7C+MLOps" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+farouk%40brachemi%3A~%24+whoami;Data+Science+%2F+AI+Engineer;Building+production-ready+AI+%26+RAG+systems;Data+Science+%7C+Agentic+AI+%7C+AIOps" alt="typing banner" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/status-open__to__work-00FF9C?style=flat-square&labelColor=0d1117" />
